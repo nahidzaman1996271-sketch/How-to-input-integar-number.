@@ -1,1 +1,14 @@
 # How-to-input-integer-number.
+[main.cpp](https://github.com/user-attachments/files/24385869/main.cpp)
+#include <iostream>
+#include <conio.h>
+using namespace std;
+
+int main(){
+    int n;
+cout << "Enter an integer number: ";
+cin >> n;
+cout << "Entered number is: " << n <<endl;
+getch();
+return 0;
+}
