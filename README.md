@@ -1,1 +1,1 @@
-# How-to-input-integar-number.
+# How-to-input-integer-number.
